@@ -1,8 +1,12 @@
 /* Reset */
+html{
+	--roboto: "Roboto", system-ui;
+	--playfair: "Playfair Display", serif
+}
 body {
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
-	/* font-size: clamp(1rem, 0.75rem + 1.5vw, 2rem); */
+	font-style: var(--roboto);
 }
 
 *,
@@ -33,9 +37,6 @@ button,
 textarea,
 select {
 	font: inherit;
-	overflow-wrap: break-word;
-	/* hyphens: auto; */
-	/* width: clamp(45ch, 50%, 75ch); */
 }
 
 img,
