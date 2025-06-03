@@ -18,6 +18,8 @@ A responsive homepage project that demonstrates a portfolio-style landing page t
   <img src="[screenshot-desktop.png](https://github.com/user-attachments/assets/9043cf51-9617-48ac-8137-9e9a24d89d6e)" alt="Desktop View" width="600">
 </p>
 
+Live Demo: https://jashbaua.github.io/Homepage/
+
 
 ## Built With
 
