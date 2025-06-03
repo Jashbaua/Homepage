@@ -38,10 +38,10 @@ Live Demo: [Homepage](https://jashbaua.github.io/Homepage/)
    ```bash
    git clone https://github.com/Jashbaua/Homepage.git
    cd Homepage
-  `
-  Responsive Breakpoints
+  
+  Responsive Breakpoints</br>
 
-  Mobile: up to 600px
-  Tablet: 601px to 1024px
-  Desktop: 1025px and above
+  Mobile: up to 600px</br>
+  Tablet: 601px to 1024px</br>
+  Desktop: 1025px and above</br>
   Media queries adjust layout, font sizes, and spacing to ensure a cohesive experience on all devices.
